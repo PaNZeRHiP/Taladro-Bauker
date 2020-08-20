@@ -1246,7 +1246,7 @@ GameObject:
   m_Component:
   - component: {fileID: 293390250}
   m_Layer: 0
-  m_Name: SNES - Donkey Kong Country - Snow Barrel Blast (1)_4
+  m_Name: SNES - Donkey Kong Country - Snow Barrel Blast
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
