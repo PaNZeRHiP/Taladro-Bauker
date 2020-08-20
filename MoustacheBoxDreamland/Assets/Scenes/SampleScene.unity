@@ -1028,7 +1028,7 @@ GameObject:
   - component: {fileID: 166335665}
   - component: {fileID: 166335664}
   m_Layer: 0
-  m_Name: continuacionFalsa
+  m_Name: continuacionFalsa.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
